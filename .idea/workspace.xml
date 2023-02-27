@@ -4,25 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d4d40e20-4af5-457f-8c21-46226963eb05" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/LetsJava.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/array.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/hello.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ifConditional.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/math.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/shortHandIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/string.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/switchCase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/typecasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/variables.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/whileLoop.java" afterDir="false" />
-    </list>
+    <list default="true" id="d4d40e20-4af5-457f-8c21-46226963eb05" name="Changes" comment="now i perform all basic of Java as know simple program or function see today yet." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -110,6 +92,14 @@
       <option name="presentableId" value="Default" />
       <updated>1677524825816</updated>
     </task>
+    <task id="LOCAL-00001" summary="now i perform all basic of Java as know simple program or function see today yet.">
+      <created>1677528980216</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1677528980216</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -122,5 +112,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="now i perform all basic of Java as know simple program or function see today yet." />
+    <option name="LAST_COMMIT_MESSAGE" value="now i perform all basic of Java as know simple program or function see today yet." />
   </component>
 </project>
